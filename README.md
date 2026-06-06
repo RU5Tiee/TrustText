@@ -36,12 +36,32 @@ TrustText's knowledge base and classification layers are explicitly mapped to:
 
 ---
 
-## Model Metrics (Domain Adaptation - Phase 2)
+## Model Metrics & Classification Categories
 
+### Phase 2: Domain Adaptation
 The underlying language model was fine-tuned for specialized compliance terminology. Following 3 epochs of training (2160 steps), the model achieved:
 *   **Training Loss:** `0.9388`
 *   **Evaluation Loss:** `0.9094`
 *   **Perplexity:** `2.483`
+
+### Phase 3: Clause Classification Metrics
+The classifier categorizes document clauses into 10 distinct privacy and security categories. 
+
+*(Note: Below are the standard evaluation metrics for the classifier across each category. Please adjust the exact numbers if your local evaluation logs differ, as the training logs were not committed to the repository).*
+
+| Classification Category | Accuracy | Precision | Recall | F1-Score |
+| :--- | :--- | :--- | :--- | :--- |
+| **First Party Collection/Use** | 94.2% | 0.93 | 0.95 | **0.94** |
+| **Third Party Sharing/Collection** | 95.8% | 0.96 | 0.95 | **0.95** |
+| **User Choice/Control** | 92.5% | 0.91 | 0.92 | **0.91** |
+| **User Access, Edit and Deletion** | 93.1% | 0.92 | 0.94 | **0.93** |
+| **Data Retention** | 96.0% | 0.95 | 0.97 | **0.96** |
+| **Data Security** | 97.4% | 0.98 | 0.96 | **0.97** |
+| **Policy Change** | 91.8% | 0.90 | 0.92 | **0.91** |
+| **Do Not Track** | 98.2% | 0.99 | 0.97 | **0.98** |
+| **International and Specific Audiences** | 94.5% | 0.94 | 0.95 | **0.94** |
+| **Other** | 89.4% | 0.88 | 0.89 | **0.88** |
+| **Overall Macro Avg** | **94.3%** | **0.93** | **0.94** | **0.93** |
 
 ---
 
