@@ -1,0 +1,49 @@
+# TrustText
+
+TrustText is an advanced AI-driven policy and document analysis system designed for robust risk scoring, clause investigation, and compliance framework mapping. By leveraging custom ML pipelines across multiple phases, TrustText analyzes textual documents to identify vulnerabilities, suggest remediations, and map clauses to specific cybersecurity and compliance frameworks.
+
+> **Note on Missing Model Files:**
+> The highly specialized fine-tuned machine learning models (`.safetensors` files) generated during `Phase2` and `Phase3` exceed GitHub's standard 100MB file limit (they are >400MB each) and have been excluded from this repository via `.gitignore` to enable a smooth clone and push experience. To run the full analysis pipeline locally, you will need to download the models externally and place them in their respective `Domian_Model` and `Classifier_model` directories.
+
+---
+
+## Project Structure
+
+The project is structured into modular phases for maintainability and scalability:
+
+*   **`Frontend/`**: The web interface dashboard featuring a modern glassmorphism design. It displays real-time analysis, document risk scores, category breakdowns, and historical data.
+*   **`Backend/`**: The core API server handling document ingestion, history tracking, and coordinating the ML pipeline.
+*   **`Phase2_Domain_Adaptation/`**: Models fine-tuned and adapted for specific cybersecurity and compliance terminology.
+*   **`Phase3_Classifier/`**: Clause classification engine that identifies and categorizes textual risks.
+*   **`Phase4_Remediation/`**: Generates natural-language remediation suggestions and maps clauses to specific framework articles, rules, and controls.
+*   **`Phase5_Pipeline/`**: The orchestration layer that connects adaptation, classification, and remediation into a single continuous analysis pipeline.
+
+---
+
+## Core Features
+
+*   **Risk Scoring:** Automated calculation of document risk based on identified vulnerabilities.
+*   **Clause Investigation:** Deep-dive analysis into specific clauses with natural remediation suggestions.
+*   **Framework Mapping:** Automatically links clauses to specific regulatory frameworks (e.g., NIST, ISO, GDPR) with exact Article/Control references.
+*   **Analysis History:** Stores historical document analyses for auditing and comparative review.
+
+---
+
+## Setup & Execution
+
+### Backend
+1. Navigate to the `Backend/` directory.
+2. Install necessary dependencies via `pip install -r requirements.txt`.
+3. Ensure the `logs/` and `History/` directories are correctly routed within the backend configuration.
+4. Run the API server.
+
+### Frontend
+1. Navigate to the `Frontend/` directory.
+2. Install dependencies via `npm install`.
+3. Start the development server via `npm run dev`.
+4. Ensure the backend API URL is correctly configured in your frontend context.
+
+---
+
+## License
+MIT License
