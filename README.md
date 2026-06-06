@@ -20,12 +20,28 @@ The project is structured into modular phases for maintainability and scalabilit
 
 ---
 
-## Core Features
+## Core Features & Supported Frameworks
 
-*   **Risk Scoring:** Automated calculation of document risk based on identified vulnerabilities.
-*   **Clause Investigation:** Deep-dive analysis into specific clauses with natural remediation suggestions.
-*   **Framework Mapping:** Automatically links clauses to specific regulatory frameworks (e.g., NIST, ISO, GDPR) with exact Article/Control references.
+### 🌟 Key Features
+*   **Risk Scoring & Dashboarding:** Real-time automated calculation of document risk, presented on a modern glassmorphism UI.
+*   **Clause Investigation:** Deep-dive analysis into specific clauses with context-aware, natural-language remediation suggestions.
+*   **Framework Mapping:** Automatically links offending text/clauses to exact Articles, Sections, and Controls.
 *   **Analysis History:** Stores historical document analyses for auditing and comparative review.
+
+### 🏛️ Supported Compliance Frameworks
+TrustText's knowledge base and classification layers are explicitly mapped to:
+*   **GDPR** (General Data Protection Regulation)
+*   **DPDP** (Digital Personal Data Protection Act)
+*   *(Includes mapping for concepts like First Party Collection, Third Party Sharing, User Consent, Data Security, and Data Retention)*
+
+---
+
+## Model Metrics (Domain Adaptation - Phase 2)
+
+The underlying language model was fine-tuned for specialized compliance terminology. Following 3 epochs of training (2160 steps), the model achieved:
+*   **Training Loss:** `0.9388`
+*   **Evaluation Loss:** `0.9094`
+*   **Perplexity:** `2.483`
 
 ---
 
