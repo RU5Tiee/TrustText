@@ -65,7 +65,11 @@ The classifier categorizes document clauses into 10 distinct privacy and securit
 
 **Overall Accuracy:** `79.0%`
 
-*Evaluation Methodology Note:* The metrics reported above are derived from an internal validation set of 557 sequence segments. The input data was heavily structured, appropriately chunked, and preprocessed to align with the model's sequence length and distribution mapping. Evaluation scores will naturally vary when deploying zero-shot inference against raw, unstructured, or uncleaned HTML/text documents. The application of focal loss in the adversarial architecture successfully forces the network to map severely underrepresented minority classes (e.g., Data Retention) rather than defaulting to majority classes, ensuring compliance-ready recall rates.
+*Evaluation Methodology Note:* The metrics reported above are derived from an internal validation set of 557 sequence segments. The input data was heavily structured, appropriately chunked, and preprocessed to align with the model's sequence length and distribution mapping. Evaluation scores will naturally vary when deploying zero-shot inference against raw, unstructured, or uncleaned HTML/text documents. 
+
+**Architectural Safeguards:**
+1. **Focal Loss:** The adversarial architecture utilizes focal loss to force the network to map severely underrepresented minority classes (e.g., Data Retention) rather than defaulting to majority classes, ensuring compliance-ready recall rates.
+2. **Confidence Thresholding:** The model is calibrated with a strict 60% confidence threshold. If the softmax probability of a prediction falls below 0.60, the model actively rejects the classification and routes the segment to the "Other" category. This fail-safe mechanism intentionally sacrifices raw recall to strictly minimize False Positives and preserve elite Precision on critical security clauses.
 
 ---
 
