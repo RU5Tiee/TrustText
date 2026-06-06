@@ -1,0 +1,5 @@
+2026-06-05 22:28:43,426 - INFO - Initializing TrustText Pipeline Orchestrator...
+2026-06-05 22:28:48,122 - INFO - All engines loaded successfully.
+2026-06-05 22:28:48,122 - INFO - --- Starting execution for: D:\TrustText#2\test_policy.txt ---
+2026-06-05 22:28:48,159 - INFO - App Context Detected: Unconfirmed
+2026-06-05 22:28:48,314 - INFO - Execution complete. Output saved to final/4c3b24b3-70a2-4814-8112-3a8f08a7cdf9.json

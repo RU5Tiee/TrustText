@@ -1,0 +1,218 @@
+2026-06-06 01:15:25,636 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 01:15:25,636 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 01:15:29,932 - TrustText - INFO - All engines initialized.
+2026-06-06 19:23:04,978 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 19:23:04,978 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 19:23:09,591 - TrustText - INFO - All engines initialized.
+2026-06-06 19:23:18,591 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 19:23:18,591 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 19:23:19,902 - TrustText - INFO - All engines initialized.
+2026-06-06 19:23:57,429 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 19:23:57,429 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 19:23:58,912 - TrustText - INFO - All engines initialized.
+2026-06-06 19:24:07,883 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 19:24:07,885 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 19:24:09,145 - TrustText - INFO - All engines initialized.
+2026-06-06 19:30:40,046 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 19:30:40,046 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 19:30:41,425 - TrustText - INFO - All engines initialized.
+2026-06-06 19:31:21,182 - TrustText - INFO - Received file for analysis: berkeley_edu.xml
+2026-06-06 19:31:21,182 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpq90k89ly.xml
+2026-06-06 19:31:21,476 - TrustText - INFO - Parsing complete. Found 23 clauses.
+2026-06-06 19:31:21,476 - TrustText - INFO - Detected context: Education
+2026-06-06 19:31:22,094 - TrustText - INFO - Classification complete.
+2026-06-06 19:31:22,095 - TrustText - INFO - Generated 5 findings.
+2026-06-06 19:31:22,095 - TrustText - INFO - Report generation complete.
+2026-06-06 19:31:48,712 - TrustText - INFO - Received file for analysis: about_ask.xml
+2026-06-06 19:31:48,717 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpjavf_qzt.xml
+2026-06-06 19:31:49,914 - TrustText - INFO - Parsing complete. Found 49 clauses.
+2026-06-06 19:31:49,919 - TrustText - INFO - Detected context: General
+2026-06-06 19:31:50,743 - TrustText - INFO - Classification complete.
+2026-06-06 19:31:50,744 - TrustText - INFO - Generated 43 findings.
+2026-06-06 19:31:50,744 - TrustText - INFO - Report generation complete.
+2026-06-06 19:37:44,096 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 19:37:44,096 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 19:37:45,362 - TrustText - INFO - All engines initialized.
+2026-06-06 19:38:13,864 - TrustText - INFO - Received file for analysis: about_usps.xml
+2026-06-06 19:38:13,866 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmp2e__8g4u.xml
+2026-06-06 19:38:15,071 - TrustText - INFO - Parsing complete. Found 57 clauses.
+2026-06-06 19:38:15,074 - TrustText - INFO - Detected context: General
+2026-06-06 19:38:15,981 - TrustText - INFO - Classification complete.
+2026-06-06 19:38:15,982 - TrustText - INFO - Generated 44 findings.
+2026-06-06 19:38:15,983 - TrustText - INFO - Report generation complete.
+2026-06-06 19:39:11,222 - TrustText - INFO - Received file for analysis: basketball_realgm.xml
+2026-06-06 19:39:11,223 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpiaeeeza7.xml
+2026-06-06 19:39:12,128 - TrustText - INFO - Parsing complete. Found 46 clauses.
+2026-06-06 19:39:12,131 - TrustText - INFO - Detected context: General
+2026-06-06 19:39:13,099 - TrustText - INFO - Classification complete.
+2026-06-06 19:39:13,099 - TrustText - INFO - Generated 41 findings.
+2026-06-06 19:39:13,099 - TrustText - INFO - Report generation complete.
+2026-06-06 19:44:10,497 - TrustText - INFO - Received file for analysis: aboutus_lego.xml
+2026-06-06 19:44:10,497 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpuxoiuyqy.xml
+2026-06-06 19:44:11,666 - TrustText - INFO - Parsing complete. Found 61 clauses.
+2026-06-06 19:44:11,666 - TrustText - INFO - Detected context: Commerce
+2026-06-06 19:44:12,711 - TrustText - INFO - Classification complete.
+2026-06-06 19:44:12,728 - TrustText - INFO - Generated 53 findings.
+2026-06-06 19:44:12,735 - TrustText - INFO - Report generation complete.
+2026-06-06 19:44:45,234 - TrustText - INFO - Received file for analysis: gamespress.xml
+2026-06-06 19:44:45,236 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmp37i6fxu7.xml
+2026-06-06 19:44:46,079 - TrustText - INFO - Parsing complete. Found 35 clauses.
+2026-06-06 19:44:46,082 - TrustText - INFO - Detected context: General
+2026-06-06 19:44:46,557 - TrustText - INFO - Classification complete.
+2026-06-06 19:44:46,562 - TrustText - INFO - Generated 25 findings.
+2026-06-06 19:44:46,562 - TrustText - INFO - Report generation complete.
+2026-06-06 19:46:45,024 - TrustText - INFO - Received file for analysis: about_shopzilla.xml
+2026-06-06 19:46:45,024 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpsu6jls8i.xml
+2026-06-06 19:46:45,757 - TrustText - INFO - Parsing complete. Found 38 clauses.
+2026-06-06 19:46:45,758 - TrustText - INFO - Detected context: General
+2026-06-06 19:46:46,235 - TrustText - INFO - Classification complete.
+2026-06-06 19:46:46,236 - TrustText - INFO - Generated 32 findings.
+2026-06-06 19:46:46,236 - TrustText - INFO - Report generation complete.
+2026-06-06 19:48:30,705 - TrustText - INFO - Received file for analysis: 1.txt
+2026-06-06 19:48:30,705 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpf5f2u6u2.txt
+2026-06-06 19:48:31,355 - TrustText - INFO - Parsing complete. Found 2 clauses.
+2026-06-06 19:48:31,356 - TrustText - INFO - Detected context: Unconfirmed
+2026-06-06 19:48:31,553 - TrustText - INFO - Classification complete.
+2026-06-06 19:48:31,553 - TrustText - INFO - Generated 2 findings.
+2026-06-06 19:48:31,553 - TrustText - INFO - Report generation complete.
+2026-06-06 19:49:51,531 - TrustText - INFO - Received file for analysis: 10001.txt
+2026-06-06 19:49:51,531 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmp86wzghqv.txt
+2026-06-06 19:49:51,843 - TrustText - INFO - Parsing complete. Found 1 clauses.
+2026-06-06 19:49:51,845 - TrustText - INFO - Detected context: Unconfirmed
+2026-06-06 19:49:52,099 - TrustText - INFO - Classification complete.
+2026-06-06 19:49:52,099 - TrustText - INFO - Generated 1 findings.
+2026-06-06 19:49:52,099 - TrustText - INFO - Report generation complete.
+2026-06-06 19:50:27,552 - TrustText - INFO - Received file for analysis: 9gag.xml
+2026-06-06 19:50:27,557 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpsh0eitze.xml
+2026-06-06 19:50:27,995 - TrustText - INFO - Parsing complete. Found 17 clauses.
+2026-06-06 19:50:27,995 - TrustText - INFO - Detected context: Social Media
+2026-06-06 19:50:28,532 - TrustText - INFO - Classification complete.
+2026-06-06 19:50:28,533 - TrustText - INFO - Generated 13 findings.
+2026-06-06 19:50:28,534 - TrustText - INFO - Report generation complete.
+2026-06-06 19:50:42,522 - TrustText - INFO - Received file for analysis: about_pinterest.xml
+2026-06-06 19:50:42,525 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmprowuob4d.xml
+2026-06-06 19:50:43,098 - TrustText - INFO - Parsing complete. Found 22 clauses.
+2026-06-06 19:50:43,100 - TrustText - INFO - Detected context: General
+2026-06-06 19:50:43,412 - TrustText - INFO - Classification complete.
+2026-06-06 19:50:43,412 - TrustText - INFO - Generated 21 findings.
+2026-06-06 19:50:43,412 - TrustText - INFO - Report generation complete.
+2026-06-06 19:55:28,460 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 19:55:28,460 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 19:55:29,936 - TrustText - INFO - All engines initialized.
+2026-06-06 19:55:57,437 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 19:55:57,437 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 19:55:58,678 - TrustText - INFO - All engines initialized.
+2026-06-06 21:06:39,790 - TrustText - INFO - Received file for analysis: 9gag.xml
+2026-06-06 21:06:39,791 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpzjigxskj.xml
+2026-06-06 21:06:40,246 - TrustText - INFO - Parsing complete. Found 17 clauses.
+2026-06-06 21:06:40,246 - TrustText - INFO - Detected context: Recreation
+2026-06-06 21:06:40,694 - TrustText - INFO - Classification complete.
+2026-06-06 21:06:40,698 - TrustText - INFO - Generated 13 findings.
+2026-06-06 21:06:40,698 - TrustText - INFO - Report generation complete.
+2026-06-06 21:07:27,184 - TrustText - INFO - Received file for analysis: 1.txt
+2026-06-06 21:07:27,184 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpq2y8m36e.txt
+2026-06-06 21:07:27,886 - TrustText - INFO - Parsing complete. Found 2 clauses.
+2026-06-06 21:07:27,886 - TrustText - INFO - Detected context: E-Commerce
+2026-06-06 21:07:28,083 - TrustText - INFO - Classification complete.
+2026-06-06 21:07:28,083 - TrustText - INFO - Generated 2 findings.
+2026-06-06 21:07:28,083 - TrustText - INFO - Report generation complete.
+2026-06-06 21:11:18,853 - TrustText - INFO - Received file for analysis: 1.txt
+2026-06-06 21:11:18,853 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmp8jzrg3n6.txt
+2026-06-06 21:11:19,495 - TrustText - INFO - Parsing complete. Found 2 clauses.
+2026-06-06 21:11:19,500 - TrustText - INFO - Detected context: E-Commerce
+2026-06-06 21:11:19,819 - TrustText - INFO - Classification complete.
+2026-06-06 21:11:19,820 - TrustText - INFO - Generated 2 findings.
+2026-06-06 21:11:19,820 - TrustText - INFO - Report generation complete.
+2026-06-06 21:11:43,718 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 21:11:43,718 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 21:11:45,213 - TrustText - INFO - All engines initialized.
+2026-06-06 21:11:50,212 - TrustText - INFO - Received file for analysis: 1.txt
+2026-06-06 21:11:50,215 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpbpg9vj_u.txt
+2026-06-06 21:11:50,935 - TrustText - INFO - Parsing complete. Found 27 clauses.
+2026-06-06 21:11:50,936 - TrustText - INFO - Detected context: E-Commerce
+2026-06-06 21:11:51,329 - TrustText - INFO - Classification complete.
+2026-06-06 21:11:51,329 - TrustText - INFO - Generated 24 findings.
+2026-06-06 21:11:51,329 - TrustText - INFO - Report generation complete.
+2026-06-06 21:14:41,999 - TrustText - INFO - Received file for analysis: 100010.txt
+2026-06-06 21:14:42,000 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpopk4tvb3.txt
+2026-06-06 21:14:42,486 - TrustText - INFO - Parsing complete. Found 11 clauses.
+2026-06-06 21:14:42,488 - TrustText - INFO - Detected context: E-Commerce
+2026-06-06 21:14:42,846 - TrustText - INFO - Classification complete.
+2026-06-06 21:14:42,846 - TrustText - INFO - Generated 9 findings.
+2026-06-06 21:14:42,846 - TrustText - INFO - Report generation complete.
+2026-06-06 21:19:50,765 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 21:19:50,765 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 21:19:52,299 - TrustText - INFO - All engines initialized.
+2026-06-06 21:19:57,511 - TrustText - INFO - Received file for analysis: 100010.txt
+2026-06-06 21:19:57,511 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpvxslaog_.txt
+2026-06-06 21:19:58,058 - TrustText - INFO - Parsing complete. Found 25 clauses.
+2026-06-06 21:19:58,059 - TrustText - INFO - Detected context: E-Commerce
+2026-06-06 21:19:58,330 - TrustText - INFO - Classification complete.
+2026-06-06 21:19:58,332 - TrustText - INFO - Generated 18 findings.
+2026-06-06 21:19:58,332 - TrustText - INFO - Report generation complete.
+2026-06-06 21:23:02,867 - TrustText - INFO - Received file for analysis: 1.txt
+2026-06-06 21:23:02,869 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmp3o2epgs7.txt
+2026-06-06 21:23:03,672 - TrustText - INFO - Parsing complete. Found 77 clauses.
+2026-06-06 21:23:03,672 - TrustText - INFO - Detected context: E-Commerce
+2026-06-06 21:23:04,254 - TrustText - INFO - Classification complete.
+2026-06-06 21:23:04,259 - TrustText - INFO - Generated 65 findings.
+2026-06-06 21:23:04,261 - TrustText - INFO - Report generation complete.
+2026-06-06 21:26:49,056 - TrustText - INFO - Received file for analysis: 100096.txt
+2026-06-06 21:26:49,057 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmplhy21laq.txt
+2026-06-06 21:26:49,291 - TrustText - INFO - Parsing complete. Found 20 clauses.
+2026-06-06 21:26:49,293 - TrustText - INFO - Detected context: Education
+2026-06-06 21:26:49,365 - TrustText - INFO - Classification complete.
+2026-06-06 21:26:49,366 - TrustText - INFO - Generated 15 findings.
+2026-06-06 21:26:49,367 - TrustText - INFO - Report generation complete.
+2026-06-06 21:27:13,694 - TrustText - INFO - Received file for analysis: 402.txt
+2026-06-06 21:27:13,695 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpevhdgche.txt
+2026-06-06 21:27:19,202 - TrustText - INFO - Parsing complete. Found 400 clauses.
+2026-06-06 21:27:19,220 - TrustText - INFO - Detected context: Healthcare
+2026-06-06 21:27:21,106 - TrustText - INFO - Classification complete.
+2026-06-06 21:27:21,111 - TrustText - INFO - Generated 333 findings.
+2026-06-06 21:27:21,111 - TrustText - INFO - Report generation complete.
+2026-06-06 21:29:32,556 - TrustText - INFO - Received file for analysis: 100096.txt
+2026-06-06 21:29:32,558 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmp7km3de8t.txt
+2026-06-06 21:29:32,790 - TrustText - INFO - Parsing complete. Found 20 clauses.
+2026-06-06 21:29:32,792 - TrustText - INFO - Detected context: Education
+2026-06-06 21:29:32,862 - TrustText - INFO - Classification complete.
+2026-06-06 21:29:32,862 - TrustText - INFO - Generated 15 findings.
+2026-06-06 21:29:32,862 - TrustText - INFO - Report generation complete.
+2026-06-06 21:30:02,676 - TrustText - INFO - Received file for analysis: 102819.txt
+2026-06-06 21:30:02,676 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpfhveu_9p.txt
+2026-06-06 21:30:03,235 - TrustText - INFO - Parsing complete. Found 61 clauses.
+2026-06-06 21:30:03,237 - TrustText - INFO - Detected context: Unconfirmed
+2026-06-06 21:30:03,626 - TrustText - INFO - Classification complete.
+2026-06-06 21:30:03,626 - TrustText - INFO - Generated 47 findings.
+2026-06-06 21:30:03,626 - TrustText - INFO - Report generation complete.
+2026-06-06 21:34:13,981 - TrustText - INFO - Received file for analysis: 102.txt
+2026-06-06 21:34:13,981 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmp2l6r8u5j.txt
+2026-06-06 21:34:14,413 - TrustText - INFO - Parsing complete. Found 42 clauses.
+2026-06-06 21:34:14,417 - TrustText - INFO - Detected context: E-Commerce
+2026-06-06 21:34:14,718 - TrustText - INFO - Classification complete.
+2026-06-06 21:34:14,720 - TrustText - INFO - Generated 39 findings.
+2026-06-06 21:34:14,720 - TrustText - INFO - Report generation complete.
+2026-06-06 21:37:38,392 - TrustText - INFO - Starting up FastAPI application...
+2026-06-06 21:37:38,392 - TrustText - INFO - Initializing Pipeline Controller...
+2026-06-06 21:37:40,006 - TrustText - INFO - All engines initialized.
+2026-06-06 21:37:40,008 - TrustText - INFO - Received file for analysis: 100010.txt
+2026-06-06 21:37:40,011 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmp6jh2zdl2.txt
+2026-06-06 21:37:40,524 - TrustText - INFO - Parsing complete. Found 25 clauses.
+2026-06-06 21:37:40,525 - TrustText - INFO - Detected context: E-Commerce
+2026-06-06 21:37:40,770 - TrustText - INFO - Classification complete.
+2026-06-06 21:37:40,773 - TrustText - INFO - Generated 18 findings.
+2026-06-06 21:37:40,773 - TrustText - INFO - Report generation complete.
+2026-06-06 21:41:05,642 - TrustText - INFO - Received file for analysis: 100535.txt
+2026-06-06 21:41:05,643 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmp5ra669kt.txt
+2026-06-06 21:41:06,448 - TrustText - INFO - Parsing complete. Found 51 clauses.
+2026-06-06 21:41:06,452 - TrustText - INFO - Detected context: Education
+2026-06-06 21:41:06,827 - TrustText - INFO - Classification complete.
+2026-06-06 21:41:06,827 - TrustText - INFO - Generated 37 findings.
+2026-06-06 21:41:06,827 - TrustText - INFO - Report generation complete.
+2026-06-06 21:43:25,693 - TrustText - INFO - Received file for analysis: 100126.txt
+2026-06-06 21:43:25,694 - TrustText - INFO - Processing policy: C:\Users\manth\AppData\Local\Temp\tmpz4heh4dz.txt
+2026-06-06 21:43:26,496 - TrustText - INFO - Parsing complete. Found 82 clauses.
+2026-06-06 21:43:26,499 - TrustText - INFO - Detected context: E-Commerce
+2026-06-06 21:43:27,032 - TrustText - INFO - Classification complete.
+2026-06-06 21:43:27,033 - TrustText - INFO - Generated 69 findings.
+2026-06-06 21:43:27,033 - TrustText - INFO - Report generation complete.

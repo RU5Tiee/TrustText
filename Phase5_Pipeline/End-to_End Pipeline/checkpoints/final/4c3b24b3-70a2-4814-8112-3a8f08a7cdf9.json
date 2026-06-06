@@ -1,0 +1,12 @@
+{
+  "policy_id": "4c3b24b3-70a2-4814-8112-3a8f08a7cdf9",
+  "title": "test_policy.txt",
+  "app_context": "Unconfirmed",
+  "execution_metadata": {
+    "runtime_seconds": 0.19,
+    "clauses_processed": 1,
+    "findings_generated": 0,
+    "quality_score": 50
+  },
+  "findings": []
+}

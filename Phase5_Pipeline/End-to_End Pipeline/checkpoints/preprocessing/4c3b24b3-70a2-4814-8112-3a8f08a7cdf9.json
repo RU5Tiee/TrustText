@@ -1,0 +1,62 @@
+{
+  "policy_id": "4c3b24b3-70a2-4814-8112-3a8f08a7cdf9",
+  "source_type": "TXT",
+  "source_path": "D:\\TrustText#2\\test_policy.txt",
+  "source_url": "",
+  "title": "test_policy.txt",
+  "raw_text": "W\u0000e\u0000 \u0000c\u0000o\u0000l\u0000l\u0000e\u0000c\u0000t\u0000 \u0000y\u0000o\u0000u\u0000r\u0000 \u0000p\u0000e\u0000r\u0000s\u0000o\u0000n\u0000a\u0000l\u0000 \u0000d\u0000a\u0000t\u0000a\u0000 \u0000s\u0000u\u0000c\u0000h\u0000 \u0000a\u0000s\u0000 \u0000n\u0000a\u0000m\u0000e\u0000 \u0000a\u0000n\u0000d\u0000 \u0000e\u0000m\u0000a\u0000i\u0000l\u0000.\u0000 \u0000W\u0000e\u0000 \u0000m\u0000a\u0000y\u0000 \u0000s\u0000h\u0000a\u0000r\u0000e\u0000 \u0000t\u0000h\u0000i\u0000s\u0000 \u0000d\u0000a\u0000t\u0000a\u0000 \u0000w\u0000i\u0000t\u0000h\u0000 \u0000t\u0000h\u0000i\u0000r\u0000d\u0000 \u0000p\u0000a\u0000r\u0000t\u0000i\u0000e\u0000s\u0000.\u0000 \u0000W\u0000e\u0000 \u0000k\u0000e\u0000e\u0000p\u0000 \u0000y\u0000o\u0000u\u0000r\u0000 \u0000d\u0000a\u0000t\u0000a\u0000 \u0000f\u0000o\u0000r\u0000e\u0000v\u0000e\u0000r\u0000.\u0000\n\u0000\n\u0000",
+  "cleaned_text": "W e c o l l e c t y o u r p e r s o n a l d a t a s u c h a s n a m e a n d e m a i l . W e m a y s h a r e t h i s d a t a w i t h t h i r d p a r t i e s . W e k e e p y o u r d a t a f o r e v e r .",
+  "sections": [
+    {
+      "original_heading": "General",
+      "normalized_heading": "General Information",
+      "section_text": "",
+      "start_offset": 0,
+      "end_offset": 0,
+      "clauses": [
+        {
+          "clause_id": "4c3b24b3-70a2-4814-8112-3a8f08a7cdf9-C1",
+          "section_name": "General Information",
+          "clause_text": "W e c o l l e c t y o u r p e r s o n a l d a t a s u c h a s n a m e a n d e m a i l . W e m a y s h a r e t h i s d a t a w i t h t h i r d p a r t i e s . W e k e e p y o u r d a t a f o r e v e r .",
+          "start_offset": 0,
+          "end_offset": 201,
+          "preprocessing_tags": []
+        }
+      ]
+    }
+  ],
+  "clauses": [
+    {
+      "clause_id": "4c3b24b3-70a2-4814-8112-3a8f08a7cdf9-C1",
+      "section_name": "General Information",
+      "clause_text": "W e c o l l e c t y o u r p e r s o n a l d a t a s u c h a s n a m e a n d e m a i l . W e m a y s h a r e t h i s d a t a w i t h t h i r d p a r t i e s . W e k e e p y o u r d a t a f o r e v e r .",
+      "start_offset": 0,
+      "end_offset": 201,
+      "preprocessing_tags": []
+    }
+  ],
+  "entities": [
+    {
+      "text": "u r p e r s o",
+      "label": "ORG",
+      "start_offset": 22,
+      "end_offset": 35
+    },
+    {
+      "text": "u r d",
+      "label": "ORG",
+      "start_offset": 174,
+      "end_offset": 179
+    }
+  ],
+  "metadata": {
+    "extraction_date": "2026-06-05T22:28:48.122206",
+    "language": "en",
+    "word_count": 101,
+    "additional_info": {}
+  },
+  "quality_score": 50,
+  "validation_flags": [
+    "INSUFFICIENT_TEXT"
+  ]
+}

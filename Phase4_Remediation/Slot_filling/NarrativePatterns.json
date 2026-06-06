@@ -1,0 +1,222 @@
+{
+    "First Party Collection/Use": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    },
+    "Third Party Sharing/Collection": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    },
+    "User Choice/Control": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    },
+    "User Access, Edit and Deletion": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    },
+    "Data Retention": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    },
+    "Data Security": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    },
+    "Policy Change": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    },
+    "International and Specific Audiences": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    },
+    "Do Not Track": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    },
+    "Other": {
+        "LOW": [
+            "The clause discusses {cat} practices but exhibits minor ambiguities regarding {app_focus}.",
+            "This provision outlines {cat} loosely; enhancing clarity around {app_focus} is recommended.",
+            "General transparency is provided for {cat}, though specific details on {app_focus} could be improved."
+        ],
+        "MEDIUM": [
+            "This clause addresses {cat} but lacks sufficient specificity regarding {app_focus}, which requires correction.",
+            "There is a notable lack of clarity in how {cat} applies to {app_focus}, posing a moderate compliance risk.",
+            "The described {cat} practices for {app_focus} are insufficiently detailed and need explicit definitions."
+        ],
+        "HIGH": [
+            "A significant compliance concern is identified in this {cat} clause regarding the handling of {app_focus}.",
+            "The policy fails to adequately disclose {cat} practices for {app_focus}, posing high regulatory risk.",
+            "Critical details regarding {cat} and {app_focus} are missing, demanding urgent remediation."
+        ],
+        "CRITICAL": [
+            "This clause presents a critical compliance violation in {cat} concerning {app_focus}.",
+            "Urgent remediation is required: the handling of {app_focus} under {cat} is entirely non-compliant.",
+            "Explicitly prohibited or severely deficient {cat} practices regarding {app_focus} were detected."
+        ]
+    }
+}
