@@ -17,6 +17,8 @@ The project is structured into modular phases for maintainability and scalabilit
 *   **`Phase3_Classifier/`**: Clause classification engine that identifies and categorizes textual risks.
 *   **`Phase4_Remediation/`**: Generates natural-language remediation suggestions and maps clauses to specific framework articles, rules, and controls.
 *   **`Phase5_Pipeline/`**: The orchestration layer that connects adaptation, classification, and remediation into a single continuous analysis pipeline.
+  <img width="1007" height="793" alt="Final" src="https://github.com/user-attachments/assets/8ba11490-7392-48ba-83b8-e1df6536eff4" />
+
 
 ---
 
